@@ -16,7 +16,7 @@ Go to your ox_inventory script, then open the file ./data/items.lua, copy this:
 		close = true,
         consume = 0,
         server = {
-            export = "303-printer.photo"
+            export = "404-printer.photo"
         }
 	},
 ```
