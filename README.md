@@ -23,6 +23,6 @@ Go to your ox_inventory script, then open the file ./data/items.lua, copy this:
 and paste this to your items.lua.
 Upload script, go to your server.cfg and paste this:
 ```
-ensure 303-printer
+ensure 404-printer
 ```
 
