@@ -1,6 +1,7 @@
 # 404-printer
 Simple printer script for 5m in LUA, HTML, CSS, JavaScript
-
+# Our Discord:
+[Click](https://discord.gg/BnWM94EjaF)
 # Requirements:
 - [ox_target](https://github.com/overextended/ox_target/releases/tag/v1.14.0)
 - [ox_inventory](https://github.com/overextended/ox_inventory/releases/tag/v2.39.1)
@@ -24,5 +25,4 @@ Upload script, go to your server.cfg and paste this:
 ```
 ensure 303-printer
 ```
-# Our Discord:
-[Click](https://discord.gg/BnWM94EjaF)
+
